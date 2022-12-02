@@ -4,9 +4,9 @@
   "version": "${version}",
 
   "name": "No Punch-man",
-  "description": "This mod aims to help new BTA modders.",
+  "description": "Stops buttons and levers from being activated when attacked.",
   "authors": [
-    "Turnip Labs"
+    "Kheprep"
   ],
   "contact": {
     "homepage": "",
